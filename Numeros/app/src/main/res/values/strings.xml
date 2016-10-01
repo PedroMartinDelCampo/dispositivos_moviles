@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Numeros</string>
+    <string name="x_label">50</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+</resources>
